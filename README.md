@@ -17,3 +17,6 @@ This project is a simple vocabulary dictionary application. It allows users to s
 1. Clone the repository or download the source code.
 2. Navigate to the project directory.
 3. Run the application using Python.
+
+```sh
+python vocab_dictionary_app.py
